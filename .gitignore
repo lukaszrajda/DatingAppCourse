@@ -1,2 +1,5 @@
 /DatingApp.API/bin/Debug/*
 /DatingApp.API/obj/Debug/*
+/DatingApp.API/.vscode/*
+/DatingApp.API/DatingApp.db
+/DatingApp.API/obj/*
